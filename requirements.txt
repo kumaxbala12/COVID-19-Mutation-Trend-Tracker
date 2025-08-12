@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+biopython
+python-dateutil
+streamlit
+jupyter
